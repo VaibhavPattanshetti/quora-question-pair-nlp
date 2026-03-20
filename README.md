@@ -157,5 +157,3 @@ The model used **early stopping** and stopped at **4,804 trees** when validation
 | Model Saving | Pickle, XGBoost native JSON |
 
 ---
-
-🔗 [GitHub](https://github.com/VaibhavPattanshetti)
